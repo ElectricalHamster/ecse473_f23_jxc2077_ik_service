@@ -6,7 +6,7 @@ This ROS package implements an ik_service node for testing inverse kinematics so
 
 Ensure ROS and all related dependencies are installed.
 
-Clone the repository: git clone -https://github.com/Wuguanfengyue07/ecse473_f23_jxc2077_ik_service.git
+Clone the repository: git clone -https://github.com/ElectricalHamster/ecse473_f23_jxc2077_ik_service
 
 Build the package: Run catkin_make in your catkin workspace
 
