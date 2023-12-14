@@ -23,6 +23,3 @@ When running the ik_client node, you should see output like the following in the
 
 "ik_service node is ready to receive PoseIK service requests"
 
-"Received a PoseIK service request"
-
-"[number] solutions found"
